@@ -1,6 +1,6 @@
-# Lead_Scoring_Assignment_Upgrad
+# Lead Scoring Assignment Upgrad
 
-# X Education Lead Conversion Project
+## X Education Lead Conversion Project
 
 Welcome to the X Education Lead Conversion Project repository! This project aims to improve lead conversion rates and identify potential 'Hot Leads' for X Education, an online education company targeting industry professionals.
 
